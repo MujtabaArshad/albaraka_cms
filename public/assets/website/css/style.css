@@ -2538,7 +2538,7 @@ ul.bottom_menu li {
 }
 
 .mega-menu .dropdown-item:hover {
-    color: #ff880e; /* AlBaraka orange color on hover */
+    color: #ff880e; 
 }
 
 /* Ensure navbar stays on top */
